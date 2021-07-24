@@ -6,7 +6,7 @@ import Teaser from './Teaser.vue'
 import Sitemap from './Sitemap.vue'
 import Metrics from './Metrics.vue'
 import TeamCard from './TeamCard.vue'
-import Copyright from './Copyright.vue'
+// import Copyright from './Copyright.vue'
 import Navigation from './Navigation.vue'
 import MetricCard from './MetricCard.vue'
 import BlogPostList from './BlogPostList.vue'
@@ -31,7 +31,7 @@ export default {
   Metrics,
   Sitemap,
   TeamCard,
-  Copyright,
+  // Copyright,
   Navigation,
   MetricCard,
   BlogPostList,

@@ -7,7 +7,7 @@
 
     <Sitemap :blok="getProperty('footer')" />
 
-    <Copyright :blok="getProperty('copyright')" />
+    <!-- <Copyright :blok="getProperty('copyright')" /> -->
   </div>
 </template>
 
